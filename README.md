@@ -1,15 +1,12 @@
 ### Hi there 👋 
 ### This is Mansour Marzban!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/X-Dark-Coder/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marzban.dev@gmail.com)
 
 Welcome to my Github page! I am Mansour!  
 
 <img align="right" alt="img" src="https://hungarytoday.hu/wp-content/uploads/2021/04/hide-the-pain-harold.jpg" width="50%" height="auto" />
-</br></br>
-
 
 #### 🌱 Things I am currently working on: 
 - Learning web technologies 
@@ -23,7 +20,7 @@ Welcome to my Github page! I am Mansour!
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=X-Dark-Coder&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=X-Dark-Coder&show_icons=true&hide_border=true&theme=dracula" />
 	
 <img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
