@@ -32,9 +32,9 @@ Welcome to my Github page! I am Mansour!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></code>
