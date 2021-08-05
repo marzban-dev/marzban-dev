@@ -38,5 +38,3 @@ Welcome to my Github page! I am Mansour!
 <img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
