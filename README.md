@@ -38,9 +38,3 @@ Welcome to my Github page! I am Mansour!
 <img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 
 </p>
-
-![phpstorm](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![phpstorm](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![phpstorm](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![phpstorm](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![phpstorm](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
