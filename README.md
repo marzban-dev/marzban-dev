@@ -22,7 +22,7 @@ Welcome to my Github page! I am Mansour!
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=X-Dark-Coder&show_icons=true&hide_border=true&theme=dracula" />
 	
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-6d611a?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-872b11?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-09578e?style=flat-square&logo=css3)
