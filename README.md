@@ -39,7 +39,7 @@ Welcome to my Github page! I am Mansour!
 
 </p>
 
-#### The technologies I worked with and I am familiar with:
+#### ✔ The technologies I worked with and I am familiar with:
 
 <p>
 
