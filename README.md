@@ -28,6 +28,8 @@ Welcome to my Github page! I am Mansour!
 ![CSS3](https://img.shields.io/badge/-CSS3-09578e?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-26193d?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-00385e?style=flat-square&logo=typescript)
+	![Webpack](https://img.shields.io/badge/-TypeScript-1b4a72?style=flat-square&logo=typescript)
+	![Sass](https://img.shields.io/badge/-Sass-6d274a?style=flat-square&logo=sass)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
