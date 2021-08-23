@@ -43,7 +43,7 @@ Welcome to my Github page! I am Mansour!
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Php](https://img.shields.io/badge/-PHP-1f2849?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-7a2326?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-420f11?style=flat-square&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 </p>
