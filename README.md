@@ -27,7 +27,7 @@ Welcome to my Github page! I am Mansour!
 ![HTML5](https://img.shields.io/badge/-HTML5-872b11?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-09578e?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-6d274a?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-26193d?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-00385e?style=flat-square&logo=typescript)
 ![Webpack](https://img.shields.io/badge/-Webpack-0b3456?style=flat-square&logo=webpack)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -49,5 +49,6 @@ Welcome to my Github page! I am Mansour!
 ![VueJs](https://img.shields.io/badge/-VueJs-1e563d?style=flat-square&logo=vuedotjs)
 ![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-26193d?style=flat-square&logo=bootstrap)
 
 </p>
