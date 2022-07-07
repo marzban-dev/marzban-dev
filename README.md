@@ -50,6 +50,6 @@ Welcome to my Github page! I am Mansour!
 ![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-26193d?style=flat-square&logo=bootstrap)
-![C#](https://img.shields.io/badge/-C-Sharp-26193d?style=flat-square&logo=bootstrap)
+![C#](https://img.shields.io/badge/-CSharp-26193d?style=flat-square&logo=bootstrap)
 
 </p>
