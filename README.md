@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is Mansour Marzban!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/X-Dark-Coder/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marzban-dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marzban.dev@gmail.com)
 
 Welcome to my Github page! I am Mansour!  
@@ -20,7 +20,7 @@ Welcome to my Github page! I am Mansour!
 
 #### :computer: The programming languages and tools I live with them: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=X-Dark-Coder&show_icons=true&hide_border=true&theme=dracula" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=marzban-dev&show_icons=true&hide_border=true&theme=dracula" />
 	
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4f440b?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
