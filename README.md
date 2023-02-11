@@ -13,11 +13,6 @@ Welcome to my Github page! I am Mansour!
 - Trying to do teamworks 
 - Writing code until death :)
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-
 #### :computer: The programming languages and tools I live with them: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=marzban-dev&show_icons=true&hide_border=true&theme=dracula" />
