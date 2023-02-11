@@ -6,8 +6,6 @@
 
 Welcome to my Github page! I am Mansour!  
 
-<img align="right" alt="img" src="https://hungarytoday.hu/wp-content/uploads/2021/04/hide-the-pain-harold.jpg" width="50%" height="auto" />
-
 #### 🌱 Things I am currently working on: 
 - Learning web technologies 
 - Trying to do teamworks 
@@ -15,7 +13,6 @@ Welcome to my Github page! I am Mansour!
 
 #### :computer: The programming languages and tools I live with them: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=marzban-dev&show_icons=true&hide_border=true&theme=dracula" />
 	
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4f440b?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -30,7 +27,6 @@ Welcome to my Github page! I am Mansour!
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 	
-
 </p>
 
 #### ✔ Technologies that i am familiar with them:
