@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marzban-dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marzban.dev@gmail.com)
 
-تریاک میزنم و نقاشی میکشم ولی چون زنم رو باید از محل کارش (پارک قوری ) بیارم خونه دیر پروژه تحویل میدم
+
 
 Welcome to my Github page! I am Mansour!  
 
