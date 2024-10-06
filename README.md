@@ -20,6 +20,7 @@ Welcome to my Github page! I am Mansour!
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextdotjs)
 ![VueJs](https://img.shields.io/badge/-VueJs-1e563d?style=flat-square&logo=vuedotjs)
+![VueJs](https://img.shields.io/badge/-VueJs-1e563d?style=flat-square&logo=nuxtdotjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-872b11?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-09578e?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-6d274a?style=flat-square&logo=sass)
