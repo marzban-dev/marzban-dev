@@ -6,7 +6,7 @@
 
 
 
-Welcome to my Github page! I am Mansour!  
+Welcome to my Github page!
 
 #### 🌱 Things I am currently working on: 
 - Learning web technologies 
