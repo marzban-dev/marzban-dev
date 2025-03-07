@@ -1,51 +1,51 @@
 ### Hi there 👋 
-### This is Mansour Marzban!
+### I'm Mansour Marzban — Frontend Developer
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marzban-dev/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marzban.dev@gmail.com)
+---
 
+### 🚀 Core Expertise
 
-
-Welcome to my Github page!
-
-#### 🌱 Things I am currently working on: 
-- Learning web technologies 
-- Trying to do teamworks 
-- Writing code until death :)
-
-#### :computer: The programming languages and tools I live with them: 
-<p>
+<p align="left">
 	
-![JavaScript](https://img.shields.io/badge/-JavaScript-4f440b?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextdotjs)
-![VueJs](https://img.shields.io/badge/-VueJs-1e563d?style=flat-square&logo=vuedotjs)
-![NuxtJs](https://img.shields.io/badge/-VueJs-1e563d?style=flat-square&logo=nuxtdotjs)
-![HTML5](https://img.shields.io/badge/-HTML5-872b11?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-09578e?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-6d274a?style=flat-square&logo=sass)
-![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/-TypeScript-00385e?style=flat-square&logo=typescript)
-![Webpack](https://img.shields.io/badge/-Webpack-0b3456?style=flat-square&logo=webpack)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-	
+  <!-- Main Skills -->
+
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&color=%23432004" height="43" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&color=%23052f4a" height="43" />
+  <img src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&color=%23032e15" height="43" />
+  <img src="https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=nuxt&color=%23032e15" height="43" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&color=%23053345" height="43" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&color=black" height="43" />
+  <img src="https://img.shields.io/badge/Tailwind Css-black?style=for-the-badge&logo=tailwindcss&color=%23052f4a" height="43" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&color=%23192e03" height="43" />
+  <img src="https://img.shields.io/badge/TanStack Query-black?style=for-the-badge&logo=reactquery&color=%23461901" height="43" />
+  <img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&color=%23002c22" height="43" />
+  <img src="https://img.shields.io/badge/Framer Motion-black?style=for-the-badge&logo=framer&color=%23162456" height="43" />
+
 </p>
 
-#### ✔ Technologies that i am familiar with them:
+---
 
-<p>
+### 🔭 Current Focus
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Php](https://img.shields.io/badge/-PHP-1f2849?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-420f11?style=flat-square&logo=laravel)
-![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-26193d?style=flat-square&logo=bootstrap)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
+- Developing expertise in modern frontend architectures
+- Building performant web applications with Vue/Nuxt and React/Next
+- Mastering advanced animation techniques with GSAP & Framer Motion
+- Implementing robust state management solutions
 
-</p>
+---
+
+### 📈 Development Philosophy
+
+- "Write code that's readable first, clever second"
+- "Every pixel matters - attention to detail is key"
+- "Continuous learning is non-negotiable in frontend development"
+- "Performance optimization is a feature, not an afterthought"
+
+---
+
+### 💡 Always Learning
+
+- Advanced TypeScript patterns
+- Server-side rendering optimization
+- Web accessibility standards (WCAG)
+- Micro-frontend architectures
